@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! Я Frontend / Fullstack разработчик 👋
 
-<!--
-**VedaGithb/VedaGithb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю веб-приложения с упором на чистую архитектуру, типизацию и удобный пользовательский интерфейс.
 
-Here are some ideas to get you started:
+### 🛠 Стек технологий
+- **Frontend:** TypeScript, JavaScript (ES6+), React 19, TanStack Query, React Router, Tailwind CSS, HTML5/CSS3
+- **Backend:** Node.js, Express 5, REST API, JWT, bcrypt
+- **Базы данных:** PostgreSQL, MongoDB (Mongoose)
+- **Инструменты:** Git, GitHub, Vite, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Ключевые проекты
+- **[LMS (Learning Management System)](https://github.com/VedaGithb/LMS)** — Платформа онлайн-обучения с курсами, прогрессом уроков и профилем. *(React, TypeScript, TanStack Query, Tailwind, PostgreSQL)*
+- **[Anti-procrastination App](https://github.com/VedaGithb/Anti-procrastination_app)** — Приложение для фокуса: Pomodoro-таймер с привязкой к задачам, статистика и лидерборд. *(React, Express, MongoDB, JWT)*
+
+### 📫 Связь со мной
+- **Telegram:** [@Zitkoy](https://t.me/Zitkoy)
+- **Email:** vladadyukov890@gmail.com
